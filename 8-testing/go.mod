@@ -1,4 +1,4 @@
-module github.com/dweidenfeld/go-by-example/9-testing
+module github.com/dweidenfeld/go-by-example/8-testing
 
 go 1.12
 
